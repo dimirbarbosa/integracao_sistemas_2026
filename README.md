@@ -1,1 +1,2 @@
-# integracao_sistemas_2026
+Integração de Sistemas 2026
+Repositório criado para a UC Integração de Sistemas.
